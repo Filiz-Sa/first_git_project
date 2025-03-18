@@ -4,7 +4,11 @@ public class HelloWordl {
     public static void main(String[] args) {
 
         System.out.println("Hello World");
-    }
+        System.out.println("Hello Cydeo");
+        System.out.println("Hello Programmers");
+        
+        
+ }
 /*
 class ismi kırmızı=file is added to the working directory but it has not been saved in local  repository.
 gitignore yellow color( bende kırmızı)
